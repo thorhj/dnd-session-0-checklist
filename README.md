@@ -3,6 +3,9 @@ This checklist is a compilation of topics, that could be relevant to discuss bef
 
 The checklist is heavily inspired by [this thread](https://www.reddit.com/r/dndnext/comments/601awb/session0_topic_checklist_and_guide/) on reddit.
 
+- [Out of game expectations](#out-of-game-expectations)
+- [The DM](#the-dm)
+
 ## Out of game expectations
 - **Alcohol**\
 Can players drink at the table? Do you care if your players get drunk? What happens when someone gets drunk? What happens when a player arrives to the session & they are already drunk? Should there be consequences, if so, what are the consequences?
