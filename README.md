@@ -87,3 +87,5 @@ How do players earn EXP? Does the monster/creature have to be slain? or are your
 
 - **Level-up**\
 When do PCs level up? Long rest? Short rest? Once they are back in town? only between game sessions? or the moment they gain enough exp?
+
+## Player options in the world
