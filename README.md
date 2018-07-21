@@ -7,6 +7,9 @@ The checklist is heavily inspired by [this thread](https://www.reddit.com/r/dndn
 - [Ethic concerns](#ethic-concerns)
 - [Practicalities](#practicalities)
 - [Playstyle](#playstyle)
+- [Experience](#experience)
+- [Character creation](#character-creation)
+- [Races and classes](#races-and-classes)
 
 ## Out of game expectations
 - **Alcohol**\
@@ -94,36 +97,40 @@ How do you handle rules debates? Does the game pause to look up rules? Does the 
 ## Playstyle
 
 - **Type of Game**\
-Is this a sandbox game? or more of a rail-road? perhaps its a rail-road that leads to a sandbox game? perhaps a sandbox game where players can jump on & off the railroad only at certain points, or perhaps whenever they like? Will the campaign be following a campaign book, & how closely will that be? Does the setting revolve around the players? or are the players just a tiny cog in a much much larger world? What kind of narrative with the game be? Is it something like LotR or will it involve more mystery and conspiracy, or will it feature heavy political themes, like Game of Thrones? (Expanded this topic thanks to contributions by /u/AeoSC)
+Is this a sandbox game, or more of a rail-road? Perhaps its a rail-road that leads to a sandbox game? Perhaps a sandbox game where players can jump on and off the railroad only at certain points, or perhaps whenever they like? Will the campaign be following a campaign book, and if so, how closely? Does the setting revolve around the players, or are the players just a tiny cog in a much much larger world? What kind of narrative with the game be? Is it something like LotR or will it involve more mystery and conspiracy, or will it feature heavy political themes, like Game of Thrones? Will the players be driven into a main plot by the DM, or are they responsible for creating the plot themselves? Something in-between?
 
 - **Pet peeves**\
-This is where you can discuss your own personal pet-peeves. Things about the game that really bother you as a DM. It is okay to have them, even though you may would rather avoid them? Just remember that when discussing them, your coming from a place of kindness and doing so to inform them so to avoid issues later on.
+This is where you can discuss your own personal pet-peeves. Things about the game that really bother you as a DM. Just remember that when discussing them, your coming from a place of kindness and doing so to inform them so to avoid issues later on.
 
 - **Game balance and fairness**\
-As a DM, what are your feelings about the balance of the game you are playing? How will you as a DM handle encounter balance? Will you constantly be throwing only deadly encounters at the PCs? Perhaps you feel that in this kind of sandbox campaign, players can stumble into the Ancient Red Dragons lair at level 1? OR perhaps you feel that the game is broken, or the balance it presents is a farce, so you will employ other means of being fair to your players?
+As a DM, what are your feelings about the balance of the game you are playing? How will you as a DM handle encounter balance? Will you constantly be throwing only deadly encounters at the PCs? Perhaps you feel that in this kind of sandbox campaign, players can stumble into the Ancient Red Dragons lair at level 1? OR perhaps you feel that the game is broken, or the balance it presents is a farce, so you will employ other means of being fair to your players? Will you as a DM present challenges that will be hopeless when faced head-on, requiring the party to be highly tactical and gather information beforehand? Or will the encounters be laid out to always be 'fair' towards the party?
 
-- **Encounter style**\
-Will you as a DM present challenges that will be hopeless when faced head-on, requiring the party to be highly tactical and gather information beforehand? Or will the encounters be laid out to always be 'fair' towards the party?
+- **Notes**\
+Are the players required to remember everything that happens? If so, is there a system in place for taking notes? Is every player responsible for taking notes, or is there a designated note-taker? What happens when the players forget crucial details?
 
 
 ## Experience
 
 - **Earning XP**\
-How do players earn EXP? Does the monster/creature have to be slain? or are your monsters obstacles that simply need be overcome? What if the players defeat a monster non-violently? Do you earn XP at all, or use the *milestones* variant (DMG p. 261)
+How do players earn XP? Do monsters/creatures have to be slain, or is it good enough to find some other past the challenge? What if the players defeat a monster non-violently? Do you even earn XP at all, or use the *milestones* variant (DMG p. 261)?
 
 - **Level-up**\
-When do PCs level up? Long rest? Short rest? Once they are back in town? only between game sessions? or the moment they gain enough exp?
+When do PCs level up? Long rest? Short rest? Once they are back in town? The moment they gain enough exp? Or will level-ups be handled by the players in-between sessions?
 
 
 ## Character creation
-- **Creation Questions**\
-DMs if you have some questions you want your players to answer about their characters durring creation, this is the place to list them. You may want to consider things like; Why is your character an adventurer?, How is your character connected to at least one other character in the group?, Who are your characters parents, siblings, mentors, etc?.
 
-- **Creation Stats**\
-Do you allow or restrict; the standard array, point buy, or rolling for stats?. If PCs are allowed to roll, do you follow a house-rule set or use the one from the PHB? Are PCs allowed to roll hit-dice for HP or do they take the average?
+- **Creation questions**\
+DMs if you have some questions you want your players to answer about their characters durring creation, this is the place to list them. You may want to consider things like; Why is your character an adventurer? How is your character connected to at least one other character in the group? Who are your characters parents, siblings, mentors, etc? Are questions can be answered collaboratively by the group and the DM to create a cohesive party, or are the characters more freely defined by the player himself?
+
+- **Ability scores**\
+What method is used for creating ability scores, and why? Standard array, point buy, or rolling for stats? If PCs are allowed to roll, do you follow a house-rule set or use the one from the PHB? If ability scores are created randomly, what happens if one character is vastly superior or inferior to the rest of the party? Discuss if this kind of situation can cause tension and take away the fun for one or more players.
+
+- **Hit points**\
+Are PCs allowed to roll hit-dice for HP or do they take the average? Or can they themselves choose what method to use?
 
 - **Alignment**\
-How heavily is alignment featured in your game? Is alignment perceptive or descriptive? What kind of things can cause a character to change alignment? What happens when a character changes alignment? Is there the potential for class features to because unusable or even lost due to alignment change? Perhaps you do not allow PCs to have alignment, but npcs and monster do, just for those few game mechnics that rely on it?
+How heavily is alignment featured in your game? Is alignment perceptive or descriptive? What kind of things can cause a character to change alignment? What happens when a character changes alignment? Is there the potential for class features to because unusable or even lost due to alignment change? Perhaps you do not allow PCs to have alignment, but NPCs and monster do, just for those few game mechnics that rely on it? Can a player's actions be prohibited by his characters alignment?
 
 - **Stat rulings**\
 DMs if you have additional rules concerning stats, you may discuss them here. Keep these rules only to stats that may affect character creation, there will be another section for listing other mechanics that may affect game-play and/or characters. Maybe you have an optional Age-trade rule where the elderly gets a +2Wis but suffers a -1Dex & -1Con. Perhaps you have a house rule where characters with 8 or less Int, can not read or write. Discuss these house-rules which have an effect on attribute score discisions.
@@ -134,17 +141,17 @@ If you have other rules or limitations or expansions on character creation for y
 
 ## Races and classes
 
-- **Races Allowed/Disallowed**\
-Are there any races you disallow? Do you allow Flying Races? Do you allow home-brew races? What if the home-brew race was a home-brew of Kinder? would you allow that? Do you allow Unearthed Arcana Races? Elemental Evil Races? Sword Coast Adventure Guide? Volo's Guide? What about the Magic The Gathering Unearthed Arcana Races? Maybe you will some races with a minor tweak to them?
+- **Races allowed/disallowed**\
+Are there any races you disallow? Do you allow flying races? Do you allow homebrew races? Do you allow Unearthed Arcana Races? Elemental Evil Races? Sword Coast Adventure Guide? Volo's Guide? What about the Magic The Gathering Unearthed Arcana Races? Maybe you will some races with a minor tweak to them?
 
-- **Tweaking/Reflavor Races**\
-Can PCs make minor tweaks to a race? Can PCs reflavor a race to be a different race? Do you allow PCs to play races they home-brewed themselves?
+- **Tweaking/reflavor races**\
+Can PCs make minor tweaks to a race? Can PCs reflavor a race to be a different race? Do you allow PCs to play races they homebrewed themselves?
 
-- **Classes Allowed**\
-Are there any classes you disallow? Do you allow home-brew classes or only home-brew classes from Mat Mercer & Sterling Vermin? Do you allow Unearthed Arcana classes/sub-classes, the Unearthed Arcana Mystic? Sword Coast Adventure Guide sub-classes?
+- **Classes allowed**\
+Are there any classes you disallow? Do you allow homebrew classes or only homebrew classes from recognised sources, such as Matt Mercer and Sterling Vermin? Do you allow Unearthed Arcana classes/sub-classes, e.g. the Unearthed Arcana Mystic? Sword Coast Adventure Guide sub-classes?
 
-- **Tweaking/Reflavor Classes**\
-Can PCs make minor tweaks to a class or subclass, if it fits a certain theme that you as the DM can agree with? Can PCs reflavor a class to be a different theme, such as a Bard reflavored as Pro Wrestler? Do you allow PCs to play home-brewed classes or sub-classes?
+- **Tweaking/reflavor classes**\
+Can PCs make minor tweaks to a class or subclass, if it fits a certain theme that you as the DM can agree with? Can PCs reflavor a class to be a different theme, such as a Bard reflavored as Pro Wrestler?
 
 
 ## Game-style, character lifestyle
@@ -153,28 +160,25 @@ Can PCs make minor tweaks to a class or subclass, if it fits a certain theme tha
 Discuss how long you think this campaign will run for, will characters be able to reach level 9? level 14? How many sessions you expect the campaign go?
 
 - **In-game adventurers**\
-What can PCs expect from being an adventurer? Are adventurers all heroes? or are they perhaps members of an adventuring guild? or are they all pirates on a pirate ship? perhaps they are all members of a faction? Do Adventurers have 'normal lives' during downtime? How do NPCs generally view adventurers? Is it favorable? or are they looked down upon because they cause more trouble than good? Or perhaps because only the desperate take up the adventuring life?
+What can PCs expect from being an adventurer? Are adventurers all heroes, or are they perhaps members of an adventuring guild? Or are they all pirates on a pirate ship? Perhaps they are all members of a faction? Do Adventurers have 'normal lives' during downtime? How do NPCs generally view adventurers? Is it favorable? or are they looked down upon because they cause more trouble than good? Or perhaps because only the desperate take up the adventuring life? Is this perception different based on culture?
 
 - **In-game politics and factions**\
-What are the various factions at play? can PCs join or already start as members of a faction? What kind of government do the PCs live under? Is it a feudal system? A magocracy? A republic? A tribe? Will the PCs be able to choose to change factions or move to live under a different form of government? What impact does the 'standard adventurer' have on the political landscape? Can the PCs go beyond what the 'standard adventurer' can do? Can the PCs effect change on the political landscape? Can PCs become part of the government? Can PCs even overthrow the government?
+What are the various factions at play? Can PCs join or already start as members of a faction? What kind of government do the PCs live under? Is it a feudal system? A magocracy? A republic? A tribe? Will the PCs be able to choose to change factions or move to live under a different form of government? What impact does the 'standard adventurer' have on the political landscape? Can the PCs go beyond what the 'standard adventurer' can do? Can the PCs effect change on the political landscape? Can PCs become part of the government? Can PCs even overthrow the government?
 
-- **Start/Standing**\
-Are characters starting at 1st level, or perhaps at a higher level? If they are starting off as a higher level, are these characters members of a town? a guild? a religion? How long have they been members? How did the character get their higher levels? During this time, have these character somehow earned some minor notoriety?
+- **Start/standing**\
+Are characters starting at 1st level, or perhaps at a higher level? If they are starting off as a higher level, are these characters members of a town? A guild? A religion? How long have they been members? How did the character get their higher levels? During this time, have these character somehow earned some minor notoriety?
 
 - **Character Context**\
-DMs you may want to consider covering the kinds of things that character may know vs what the player may know & the distinction in-between. The character has potentially lived 15+ years in this setting & may know things that a player would not. DMs, if meta-gaming is a concern for you, this is another place where you can break it down, & how you handle it. How can a player have access to something the character may know, should know, will know? Do they roll for this? Do they automatically become told this knowledge by the DM when circumstances trigger it? Can players freely ask? Perhaps you use a mix of all of the above.
+DMs you may want to consider covering the kinds of things that character may know vs what the player may know and the distinction in-between. The character has potentially lived 15+ years in this setting and may know things that a player would not. DMs, if meta-gaming is a concern for you, this is another place where you can break it down, and how you handle it. How can a player have access to something the character may know, should know, will know? Do they ask to roll for this? Do they automatically become told this knowledge by the DM when circumstances trigger it? Can players freely ask? Perhaps you use a mix of all of the above.
 
 
-## Backgrounds, feats and mounts
+## Backgrounds and feats 
 
 - **Backgrounds**\
-How do backgrounds effect the characters lifestyle? Do you as a DM limited any backgrounds? Do you use backgrounds as all? If you do, do you want final approval of each background selection? Do you allow players to tweak or home-brew their own backgrounds? Have you home-brewed any background for you to use in you campaign?
+How do backgrounds effect the characters lifestyle? Do you as a DM limited any backgrounds? Do you use backgrounds as all? If you do, do you want final approval of each background selection? Do you allow players to tweak or homebrew their own backgrounds? Have you homebrewed any background for you to use in you campaign?
 
 - **Feats**\
-Do feats, like the Actor feat, effect backgrounds and the characters lifestyle? Do you as a DM limit any feats? If you allow feats, do you want final approval of each feat selection? Do you allow for the Unearthed Arcana Feats? Have you home-brewed any Feats for use in your campaign? Have you tweaked some of the stock feats? Do you restrict or allow the Lucky feat?
-
-- **Mounts**\
-As a DM, do you allow mounts? How do you handle mounts? Do you employ the 'unstated mount rule'? Can PCs eventually obtain exotic mounts? flying mounts? Keep in mind, that this ruling can devalue or raise the value of some feats & class features of the game. For those of you wondering what the 'Unstated mount rule' is; It is an house-rule by some DMs that; If you do not make the DM go out of his way to search the book for mounted combat rules, then the DM will not go out of his/her way to help your mount find an unfortunate death. Know that despite my unfavorable wording of this rule, it is a fair rule & has been around D&D for quite a long time.
+Do feats, like the Actor feat, effect backgrounds and the characters lifestyle? Do you as a DM limit any feats? If you allow feats, do you want final approval of each feat selection? Do you allow for the Unearthed Arcana Feats? Have you homebrewed any Feats for use in your campaign? Have you tweaked some of the stock feats? Do you restrict or allow any feat in particular?
 
 ## Genereal mechanic rules
 - **Ready an Action**\
