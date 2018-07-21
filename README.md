@@ -1,7 +1,7 @@
 # D&D session zero checklist
-This checklist is a compilation of topics, that could be relevant to discuss before starting a new D&D game. Many of the topics apply to other RPGs as well. The list is compiled primarily for personal use.
+This checklist is a compilation of topics, that could be relevant to discuss before starting a new D&D game. Many of the topics apply to other RPGs as well. The list can be used by a DM that has already prepared a plot and setting, to align the players with what to expect. The list can also be used BEFORE the DM prepares anything, as a way of aligning the game experience more openly, with the players having more say in the game style.
 
-The checklist is heavily inspired by [this thread](https://www.reddit.com/r/dndnext/comments/601awb/session0_topic_checklist_and_guide/) on reddit.
+The checklist is heavily inspired by [this thread](https://www.reddit.com/r/dndnext/comments/601awb/session0_topic_checklist_and_guide/) on reddit. The list is compiled primarily for personal use.
 
 - [Out of game expectations](#out-of-game-expectations)
 - [Ethic concerns](#ethic-concerns)
@@ -10,6 +10,17 @@ The checklist is heavily inspired by [this thread](https://www.reddit.com/r/dndn
 - [Experience](#experience)
 - [Character creation](#character-creation)
 - [Races and classes](#races-and-classes)
+- [Game-style, character lifestyle](#game-style-character-lifestyle)
+- [Backgrounds and feats](#backgrounds-and-feats)
+- [Inspiration](#inspiration)
+- [Ability checks](#ability-checks)
+- [Criticals](#criticals)
+- [Sneaking](#sneaking)
+- [NPCs and creatures](#npcs-and-creatures)
+- [Magic items](#magic-items)
+- [Spells and spell effects](#spells-and-spell-effects)
+- [Death, ressurrection and resting](#death-ressurrection-and-resting)
+- [Setting and worldbuilding](#setting-and-worldbuilding)
 
 ## Out of game expectations
 - **Alcohol**\
@@ -92,6 +103,9 @@ You may want to discuss with your players, how many players get to be absent for
 
 - **Rules debates**\
 How do you handle rules debates? Does the game pause to look up rules? Does the DM make a quick ruling to keep game flow and then the rule is looked up after the session? Perhaps as a DM you use some combination of both?
+
+- **Food, snacks and drinks**\
+If your sessions overlap a meal, how do you handle this? Do people bring their own food? Do you order or make food together? Do you eat while playing, or do you take a break while eating?
 
 
 ## Playstyle
@@ -178,9 +192,11 @@ DMs you may want to consider covering the kinds of things that character may kno
 How do backgrounds effect the characters lifestyle? Do you as a DM limited any backgrounds? Do you use backgrounds as all? If you do, do you want final approval of each background selection? Do you allow players to tweak or homebrew their own backgrounds? Have you homebrewed any background for you to use in you campaign?
 
 - **Feats**\
-Do feats, like the Actor feat, effect backgrounds and the characters lifestyle? Do you as a DM limit any feats? If you allow feats, do you want final approval of each feat selection? Do you allow for the Unearthed Arcana Feats? Have you homebrewed any Feats for use in your campaign? Have you tweaked some of the stock feats? Do you restrict or allow any feat in particular?
+Do you allow feats in the game? Do feats, like the Actor feat, effect backgrounds and the characters lifestyle? Do you as a DM limit any feats? Do you want final approval of each feat selection? Do you allow for the Unearthed Arcana Feats? Have you homebrewed any Feats for use in your campaign? Have you tweaked some of the stock feats? Do you restrict or allow any feat in particular?
+
 
 ## Genereal mechanic rules
+
 - **Ready an Action**\
 DMs, this is confusing. It might be a good idea to cover & discuss this mechanic with your table. Consider perhaps going as far as to break it down step-by-step the requirements for using this feature, the cost, & risk involved.
 
@@ -199,38 +215,35 @@ If you have additional rules that focus on general game play that isn't covered 
 
 ## Inspiration
 
-- **Snacks**\
-Do you allow the players that bring snacks for everyone to gain free inspiration? If not, maybe you can use this as an aside for discussing session snaking and food, if any.
-
 - **Gaining Inspiration**\
-How do players gain inspiration? Does the DM award it? Do players award each other? If players award each other, does the DM have 'veto' power? Can players have multiple sources of inspiration? Can players have more than one inspiration at a time? Perhaps you scrap the inspiration system because its tedious & everyone seems to forget about it? Can the players ask for inspiration?
+How do players gain inspiration? Does the DM award it? Do players award each other? If players award each other, does the DM have 'veto' power? Can players have multiple sources of inspiration? Can players have more than one inspiration at a time? Perhaps you scrap the inspiration system because everyone seems to forget about it? Can the players ask for inspiration?
 
 - **Tracking Inspiration**\
-Does the player with inspiration get a special dice? a special token? Can you keep inspiration from the end of one gaming session to the next gaming session? Can players SHARE inspiration freely with one another?
+Does the player with inspiration get a special dice? a special token? Can you keep inspiration from the end of one gaming session to the next gaming session? Can players SHARE inspiration freely with one another? Do you have a system to REMEMBER inspiration?
 
 - **Spending Inspiration**\
-How does a player spend inspiration? Does inspiration & bardic inspiration provide some sort of super inspiration? If a player somehow has a pool of inspiration tokens, can a player use spend more than one of those on a single roll? Can a player use Inspiration after seeing the result of the dice, or does it have to be declared before?
+How does a player spend inspiration? Does inspiration aand bardic inspiration provide some sort of super inspiration? If a player somehow has a pool of inspiration tokens, can a player use spend more than one of those on a single roll? Can a player use Inspiration after seeing the result of the dice, or does it have to be declared before? Do the players have to come up with an in-game reason that ties the inspiration to the improved result?
 
 
-## Advantage, disadvantage and ability checks
-
-- **Stacking**\
-As a DM, do you allow multiple sources of disadvantage/advantage stack? Does this stacking only apply when one is used to cancel the other? Even if they stack, do you still only roll with 1 additional advantage/disadvantage dice?
+## Ability checks
 
 - **Giving Aid**\
-Does providing aid, provide straight advantage; or perhaps does the PC giving aid need proficiency in the skill they are using in making the check? Are those perception checks or the Search actions, exempt from this ruling? Is there a time limit on the kind of task that PC an provide aid for?
+Does providing aid, provide straight advantage; or perhaps does the PC giving aid need proficiency in the skill they are using in making the check? Are those perception checks or the Search actions, exempt from this ruling? Is there a time limit on the kind of task that PC an provide aid for? Are these questions perhaps answered on a case-by-case basis?
 
 - **Multiple Attempts**\
-Can a rogue make that lock picking attempt over & over & over again? As a DM, at what point do you draw the line on multiple attempts? Perhaps as a DM, you would raise the DC in such a case? If so, state what it is. What if the Bard gives the Rogue his bardic inspiration, does this perhaps reset the DC to what it was? What if the rogue took a short rest before trying again? What if the rogue instead spends his inspiration?
+Can a rogue make that lock picking attempt over and over and over again? As a DM, at what point do you draw the line on multiple attempts? Perhaps as a DM, you would raise the DC in such a case? If so, state what it is. What if the Bard gives the Rogue his bardic inspiration, does this perhaps reset the DC to what it was? What if the rogue took a short rest before trying again? What if the rogue instead spends his inspiration?
+
+- **Group checks**\
+If the party needs to achieve something together, such as sneaking past some foes as a group, how do you handle this? Does everybody in the group have to succeed on the stealth check? Perhaps if half the party succeeds on the check, it means that they are able to collectively help each other and therby succeed? 
 
 
 ## Criticals
 
 - **Critical Hits**\
-RAW? or do you roll & add maximized damage & then add modifiers? Maybe you will allow your players to choose for each campaign? Maybe you have an alternate method; if so, what is it?
+RAW? Or do you roll and add maximized damage and then add modifiers? Maybe you will allow your players to choose for each campaign? Maybe you have an alternate method; if so, what is it?
 
 - **Critical Fumbles**\
-Is this a rule in your game? Do you have a table, if so, what is on your fumble table? The fumble-table is something every player should be able to readily access. If you do not have a fumble table, do you instead improvise what happens ona crit-fumble?
+Is this a rule in your game? Do you have a table, if so, what is on your fumble table? The fumble-table is something every player should be able to readily access. If you do not have a fumble table, do you instead improvise what happens on a crit-fumble?
 
 - **Critical Success**\
 Nat-20 on an ability check/save means what? What does it mean to the narrative? Do rolling a Nat-20 allow a player to get what they are after, no matter the circumstances or the ridiculousness of the roll? Would such a roll be immediately apparent in the narrative, or would it go perhaps unnoticed?
@@ -247,7 +260,7 @@ Do you allow stealth movement in your game? How is accomplished? Do you require 
 - **Unseen Attacker**\
 What does it mean to be an unseen attacker? How does cover play into effect here? How actions/things causes an unseen attack to become revealed? How does such an attack go back to being an Unseen Attacker? Can enemies even 'target' an unseen attacker?
 
-- **Hidden/Hide Action**\
+- **Hidden/hide action**\
 What does it mean to be hidden? Can a hidden creature be a 'valid target'? If they can, what penalties does the attacker have against the hidden creature? What actions/things causes an hidden creature to become un-hidden? How does such a creature go back to being Hidden? Can a hidden creature clearly attack an un-hidden creature without penalty?
 
 - **Invisibility**\
@@ -259,23 +272,29 @@ Do you as a DM use the new Unearthed Arcana rule-set for traps? Are traps a heav
 
 ## NPCs and creatures
 
-- **Group Inits**\
-As a DM, do you use them? If so, how? Do you break up large groups into smaller ones? If you do not use Group Inits, what do you use instead?
+- **Group initiative**\
+As a DM, do you use it? If so, how? Do you break up large groups into smaller ones? If you do not use Group Initiative, what do you use instead?
 
 - **Vendors**\
-Most NPCs vendors will sell items for what cost? for base-price? base-price+10%, +20%? will most vendors haggle or only some of them? or will vendors not haggle at all?
+Most NPCs vendors will sell items for what cost? For base-price? Base-price+10%, +20%? will most vendors haggle or only some of them? Or will vendors not haggle at all?
 
 - **Other Creature rules**\
-List any other creature rules you may have. Creatures in particular you may want to consider discuss are; Lycanthropes, Vampires, Intellect Devourers, Basilisk, & Medusa. These are the creatures that potentially have the likelihood of taking away player agency. (If there are other creatures that are 'agency thieves' that I failed to think of, post below & I will update this list.)
+List any other creature rules you may have. Creatures in particular you may want to consider discuss are; Lycanthropes, Vampires, Intellect Devourers, Basilisk, and Medusa. These are the creatures that potentially have the likelihood of taking away player agency.
 
 
 ## Magic items
 
-- **Attunement/Identify**\
+- **Rarity**\
+How rare are magic items? Can you expect to find them almost everywhere, or are the legendary relics of the past? Perhaps some items are common (potions, spell scrolls) while others are legendary and rare (weapons, armor, artifacts)?
+
+- **Attunement/identification**\
 Does attunement reveal everything about an item, or do PCs need to identify them to get the full list of everything an item can do? Do PCs need to identify an item before being able to attune to it?
 
-- **Magic Resize**\
-Do wearable items auto-magically resize to fit their wearer? If not, is there a way to resize such items? Perhaps only Rare & above items resize while uncommon does not? Perhaps only if you attune to the item, will it resize? Maybe all magical items auto-resize? Maybe its a case by case basis?
+- **Magic resize**\
+Do wearable items auto-magically resize to fit their wearer? If not, is there a way to resize such items? Perhaps only rare and above items resize while uncommon does not? Perhaps only if you attune to the item, will it resize? Maybe all magical items auto-resize? Maybe it's on a case-by-case basis?
+
+- **Potions**\
+Do potions take an action to use as per RAW, or can they be used by using a bonus action? Do the characters need to identify common potions (e.g. healing), or they so common that they recognize them on sight?
 
 - **Other magic item rules**\
 List any other magical items rules you may have.
@@ -283,50 +302,47 @@ List any other magical items rules you may have.
 
 ## Spells and spell effects
 
-- **Additional/Customized spells**\
-Elemental evil spells, do you allow them? Do you allow spells from the Unearthed Arcana: That Old Black Magic? Do you allow for homebrewed spells? Do you allow any class to make tweaks to spells, or do you limit that kind of thing to only the Sorcerer? If spells can be tweaked, what kind of tweaks can be made? Damage-type? Range? Duration? etc.
+- **Additional/customized spells**\
+Do you allow spells from the Unearthed Arcana: That Old Black Magic? Do you allow for homebrewed spells? Do you allow any class to make tweaks to spells, or do you limit that kind of thing to only the Sorcerer? If spells can be tweaked, what kind of tweaks can be made? Damage-type? Range? Duration?
 
-- **Spells Vs Environments**\
+- **Spells vs environments**\
 Do spells work differently in different environments? Do fire spells work underwater? what about lightning spells underwater? Do ice spells work on the Plane of Fire? Do you have guidelines or do you make judgement calls when such circumstances happen?
 
 - **Spell Abuse**\
 As a DM how do you handle things if a caster starts using spells abusively? What do you consider to be spell abuse?
 
-- **Spell Casting & Juggling**\
-Do players need to keep track of which hand carries their components, which hand they use for somatic gestures, which hand they use for foci, which hands holds their spell-book, & which hand they use for weapons? Or perhaps as DM, you don't care as long as it isn't breaking the action economy? Do you strictly enforce spell-casting rules via RAW, or do you allow some leniency?
+- **Spell casting and juggling**\
+Do players need to keep track of which hand carries their components, which hand they use for somatic gestures, which hand they use for foci, which hands holds their spell-book, and which hand they use for weapons? Or perhaps as DM, you don't care as long as it isn't breaking the action economy? Do you strictly enforce spell-casting rules via RAW, or do you allow some leniency?
 
-- **Material Components**\
+- **Material components**\
 Do spell casters need to keep track of what components they have? or can they just simply deduct 50gp for that diamond they need for Chromatic Orb? Perhaps you decided to wave all the material cost of spell components for spells below 6th level? Consider discussing what you as a DM expect from your caster players.
 
-- **Spell Tweaks**\
-DMs list your spell tweaks here. Perhaps the Grease spell is flammable? Maybe you found on reddit a better version of True Strike cantrip that you would like to use. Maybe you renamed Chill Touch so that its name is less confusing? Maybe you tweaked/expanded on how Charm & Illusion spells work? Perhaps if the Bard can make his/her Vicious Mockery funny enough to make you laugh, it auto-crits?
+- **Spell tweaks**\
+DMs list your spell tweaks here, if any.
 
 
 ## Death, ressurrection and resting
 
 - **Death**\
-What happens when a PC dies? What happens when there is a TPK? Does the game end? Does it mean that time passes & events progress a certain number of years before the players can create new PCs? Should every player have a backup character ready to go? *Make sure your players know what it means when these events happens; this is something often forgotten about that brand new players need to know.*
+What happens when a PC dies? What happens when there is a TPK? Does the game end? Does it mean that time passes and events progress a certain number of years before the players can create new PCs? Should every player have a backup character ready to go? *Make sure your players know what it means when these events happens; this is something often forgotten about that brand new players need to know.*
 
 - **Resurrection**\
-What options, in the setting or in the game, do players have for resurrecting fallen PCs? Is this the privy of high-level PCs & Gods, or can anyone bring the corpse of a fallen ally to the resurrection temple & pay a huge sum of money to resurrect a character? Do you have an alternate set of Resurrection rules. Did you pick up the rule-set that Mat Mercer recently refined for his PC resurrections? Even if you follow resurrection RAW, what impact does resurrection have in-game? Is this a common occurrence in this setting? or is it something special & unique? Will characters be expected to go get a special Mcguffin (like unicorn blood, angel tears, phoenix down) otherwise resurrection spells will automatically fail?
+What options, in the setting or in the game, do players have for resurrecting fallen PCs? Is this the privy of high-level PCs and gods, or can anyone bring the corpse of a fallen ally to the resurrection temple and pay a huge sum of money to resurrect a character? Do you have an alternate set of Resurrection rules. Did you pick up the rule-set that Mat Mercer recently refined for his PC resurrections? Even if you follow resurrection RAW, what impact does resurrection have in-game? Is this a common occurrence in this setting? or is it something special and unique? Will characters be expected to go get a special component (like unicorn blood, angel tears, phoenix down) otherwise resurrection spells will automatically fail?
 
 - **Death Rules**\
 DMs if you have game mechanic rules for when PCs die, discuss them here. What about Massive Damage rules; does it outright kill you? A common rule seems to be Death Exhaustion: When a character regains 1hp from after being dropped to 0hp, that character gains one level of exhaustion.
 
 - **Resting Rules**\
-DMs if you have rules for rest mechanics discuss them here. A common rule seems to be only 2 short rest before a long rest. Another common is that a Long Rest always starts with a Short rest.
+DMs if you have rules for rest mechanics discuss them here. A common rule seems to be only 2 short rest before a long rest. Another common is that a Long Rest always starts with a Short rest. Perhaps you do not gain full health on a long rest? How to tackle rest-abuse, where character take long rests unnaturally often?
 
 
-## Homebrew and variant rules
+## Setting and worldbuilding
 
-
-## Worldbuilding
+- **Collaborative worldbuilding**\
+Can the players collaborate in building the world? Are they expected to? Can players be assigned to flesh out a specific area of the world related to their character? 
 
 - **Player Narrative Authority**\
-Do you allow your players to have some narrative authority in your game? How much say do you allow in your game/campaign, for each player? For example; Can the Cleric player create the deity she follows & you as a DM allow her to decide what her deity personality, attitudes, domain, & etc? Or does she have to select a deity from the book? Does the Goliath have a tribe/herd? Who is the leader of his Herd? Does the Paladin follow a specific sect or order? Maybe the Fighter is the son of a Farmer? So now there is a whole farm in your game that, when the party arrives at, the Fighter player now becomes an assistant DM. This can go a LONG way to allowing your players feel ATTACHED to the game setting.
-
-
-## Player options in the world
+Do you allow your players to have some narrative authority in your game? How much say do you allow in your game/campaign, for each player? For example; can the Cleric player create the deity she follows and you as a DM allow her to decide what her deity personality, attitudes, domain, etc? Maybe the Fighter is the son of a farmer? So now there is a whole farm in your game that, when the party arrives at, the Fighter player now becomes an assistant DM. This can go a LONG way to allowing your players feel ATTACHED to the game setting.
 
 - **Gender**\
 In your setting, are there if any, in your setting and the possibilities of encountering patriarchal or matriarchal cultures & how prevalent each are in this setting. What can characters find as the most common 'norms' for gender roles. Bring up any race/culture in your setting that has off-set or extremest views from the general gender norms you described earlier. Consider discussing the topics of creatures, deities & magic items that can change gender, if any, & how common those are. (Succubus/Incubus come to mind.)
