@@ -195,7 +195,7 @@ How do backgrounds effect the characters lifestyle? Do you as a DM limited any b
 Do you allow feats in the game? Do feats, like the Actor feat, effect backgrounds and the characters lifestyle? Do you as a DM limit any feats? Do you want final approval of each feat selection? Do you allow for the Unearthed Arcana Feats? Have you homebrewed any Feats for use in your campaign? Have you tweaked some of the stock feats? Do you restrict or allow any feat in particular?
 
 
-## Genereal mechanic rules
+## General mechanic rules
 
 - **Ready an Action**\
 DMs, this is confusing. It might be a good idea to cover & discuss this mechanic with your table. Consider perhaps going as far as to break it down step-by-step the requirements for using this feature, the cost, & risk involved.
