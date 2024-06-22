@@ -32,6 +32,9 @@ Same considerations as Alcohol, but perhaps you have different rules and consequ
 - **Cellphones and digital devices**\
 Do you allow them at the table? Do they need to be left in the basket at the door? If you do allow them, what happens when a player gets a call they must take? Do you allow headphone use at the table? Should there be consequences for when this becomes a problem, if so, what are the consequences?
 
+- **Technological proficiency**\
+What computer skills does a player need to have? Familiarity with a specific character generation tool (like DnD Beyond)? Or a specific VTT? What is the android vs apple composition, and is one more workable than the other? Does anyone have a tool or skills that will enrich the game in some way? Is anyone particularly intimidated by technology?
+
 - **Player attention**\
 What happens if a player is constantly distracted? What happens if they are constantly delaying the game because they are NOT paying attention? Should there be consequences for when this becomes a problem, if so, what are the consequences?
 
