@@ -77,6 +77,9 @@ That 'loner' character? Are they allowed? If so, at what limits? Is it okay if a
 - **Murder hobos**\
 What is your stance on this as a DM? Is it allowed? Is it allowed, but there will be in-game consequences? Maybe your playing an evil campaign and this is exactly what you want in this campaign. DMs understand that D&D by its nature and history encourages this style of game-play, so be forgiving but mindful.
 
+- **Medical issues**\
+Are there any issues like allergies or fragrance sensitivities that might affect players where you intend to play? Any cats or dogs in the area where the game will be played?
+
 - **Other behavior rules**\
 Perhaps this is where you tell your players to be respectful to one another, or be communicative, etc.
 
@@ -121,6 +124,14 @@ This is where you can discuss your own personal pet-peeves. Things about the gam
 
 - **Game balance and fairness**\
 As a DM, what are your feelings about the balance of the game you are playing? How will you as a DM handle encounter balance? Will you constantly be throwing only deadly encounters at the PCs? Perhaps you feel that in this kind of sandbox campaign, players can stumble into the Ancient Red Dragons lair at level 1? OR perhaps you feel that the game is broken, or the balance it presents is a farce, so you will employ other means of being fair to your players? Will you as a DM present challenges that will be hopeless when faced head-on, requiring the party to be highly tactical and gather information beforehand? Or will the encounters be laid out to always be 'fair' towards the party?
+
+- **Bookkeeping details**\
+As a DM, what are your feelings about the crunchy aspects of the game? How will you handle things like:
+
+  -  Encumbrance?
+  -  Ammunition?
+  -  Rations and food?
+
 
 - **Notes**\
 Are the players required to remember everything that happens? If so, is there a system in place for taking notes? Is every player responsible for taking notes, or is there a designated note-taker? What happens when the players forget crucial details?
