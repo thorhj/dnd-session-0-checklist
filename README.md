@@ -178,6 +178,9 @@ Can PCs make minor tweaks to a race? Can PCs reflavor a race to be a different r
 - **Classes allowed**\
 Are there any classes you disallow? Do you allow homebrew classes or only homebrew classes from recognised sources, such as Matt Mercer and Sterling Vermin? Do you allow Unearthed Arcana classes/sub-classes, e.g. the Unearthed Arcana Mystic? Sword Coast Adventure Guide sub-classes?
 
+- **Multiclassing**\
+Are there any rules that govern the ability to multiclass? Are any class combinations forbidden? Is there a requirement to find a narrative path to a multiclass of interest? Are there any rules regarding class composition of the party?
+
 - **Tweaking/reflavor classes**\
 Can PCs make minor tweaks to a class or subclass, if it fits a certain theme that you as the DM can agree with? Can PCs reflavor a class to be a different theme, such as a Bard reflavored as Pro Wrestler?
 
