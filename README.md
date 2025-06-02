@@ -122,6 +122,9 @@ If your sessions overlap a meal, how do you handle this? Do people bring their o
 - **Type of Game**\
 Is this a sandbox game, or more of a rail-road? Perhaps its a rail-road that leads to a sandbox game? Perhaps a sandbox game where players can jump on and off the railroad only at certain points, or perhaps whenever they like? Will the campaign be following a campaign book, and if so, how closely? Does the setting revolve around the players, or are the players just a tiny cog in a much much larger world? What kind of narrative with the game be? Is it something like LotR or will it involve more mystery and conspiracy, or will it feature heavy political themes, like Game of Thrones? Will the players be driven into a main plot by the DM, or are they responsible for creating the plot themselves? Something in-between?
 
+- **Pillars of Play**\
+What is the relative emphasis on the three major aspects of a TTRPG experience: combat, exploration, and/or social encounters?
+
 - **Pet peeves**\
 This is where you can discuss your own personal pet-peeves. Things about the game that really bother you as a DM. Just remember that when discussing them, your coming from a place of kindness and doing so to inform them so to avoid issues later on.
 
@@ -152,7 +155,7 @@ When do PCs level up? Long rest? Short rest? Once they are back in town? The mom
 ## Character creation
 
 - **Creation questions**\
-DMs if you have some questions you want your players to answer about their characters durring creation, this is the place to list them. You may want to consider things like; Why is your character an adventurer? How is your character connected to at least one other character in the group? Who are your characters parents, siblings, mentors, etc? Are questions can be answered collaboratively by the group and the DM to create a cohesive party, or are the characters more freely defined by the player himself?
+DMs if you have some questions you want your players to answer about their characters during creation, this is the place to list them. You may want to consider things like; Why is your character an adventurer? How is your character connected to at least one other character in the group? Who are your characters parents, siblings, mentors, etc? Are questions can be answered collaboratively by the group and the DM to create a cohesive party, or are the characters more freely defined by the player himself?
 
 - **Ability scores**\
 What method is used for creating ability scores, and why? Standard array, point buy, or rolling for stats? If PCs are allowed to roll, do you follow a house-rule set or use the one from the PHB? If ability scores are created randomly, what happens if one character is vastly superior or inferior to the rest of the party? Discuss if this kind of situation can cause tension and take away the fun for one or more players.
