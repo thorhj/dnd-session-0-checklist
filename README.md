@@ -21,6 +21,7 @@ The checklist is heavily inspired by [this thread](https://www.reddit.com/r/dndn
 - [Spells and spell effects](#spells-and-spell-effects)
 - [Death, ressurrection and resting](#death-ressurrection-and-resting)
 - [Setting and worldbuilding](#setting-and-worldbuilding)
+- [Useful Links](#useful-links)
 
 ## Out of game expectations
 - **Alcohol**\
@@ -372,3 +373,8 @@ In your setting, are there if any, in your setting and the possibilities of enco
 
 - **Racism and prejudice**\
 Is this a fantasy setting where people are judged by their deeds and merit, on a person by person basis? Or do Elves hate Dwarves? If so why? Perhaps all the demi-human races view the goblinoid races with disdain? Is it a race by race thing? Perhaps it's all faction based? Which cultures or races are more open-minded, which ones are hugely xenophobic, which ones feel that their culture/race is superior?
+
+## Useful Links
+- original/source discussion: https://www.reddit.com/r/dndnext/comments/601awb/session0_topic_checklist_and_guide/
+- https://slyflourish.com/lazy_gm_resource_document.html#sessionzerochecklist
+- https://homebrewery.naturalcrit.com/share/_FBgi5Oqh
