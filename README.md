@@ -35,6 +35,9 @@ Do you allow them at the table? Do they need to be left in the basket at the doo
 - **Technological proficiency**\
 What computer skills does a player need to have? Familiarity with a specific character generation tool (like DnD Beyond)? Or a specific VTT? What is the android vs apple composition, and is one more workable than the other? Does anyone have a tool or skills that will enrich the game in some way? Is anyone particularly intimidated by technology?
 
+- **Artificial Intelligence**\
+What role, if any, will AI have at the table? Is it forbidden? Encouraged? What are appropriate and inappropriate roles for AI-generated art, or AI-generated campaign content?
+
 - **Player attention**\
 What happens if a player is constantly distracted? What happens if they are constantly delaying the game because they are NOT paying attention? Should there be consequences for when this becomes a problem, if so, what are the consequences?
 
